@@ -2,6 +2,8 @@
 
 ## AWS Machine Learning Engineer Nanodegree
 
+NOTE: THIS PROJECT HAS BEEN REVIEWED AND APPROVED BY AN UDACITY NANODEGREE MENTOR
+
 ## Overview
 In this project, students will apply the knowledge and methods they learned in the Introduction to Machine Learning course to compete in a Kaggle competition using the AutoGluon library.
 
